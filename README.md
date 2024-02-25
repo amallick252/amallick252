@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abinash, a frontend developer with experience in React, Shopify, Wordpress
+- 👋 Hi, I’m Abinash, a frontend developer with experience in ReactJS, Shopify, Wordpress
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning next.js & backend
 - 💞️ I’m looking to collaborate on react projects
